@@ -47,7 +47,7 @@ public class Beecrowd_1117 {
 			}		
 		}
 		
-		double media = (double) (somaNotas/count);
+		double media = (double) ((somaNotas)/(count+1));
 		
 		System.out.printf("media = %.2f%n", media);
 		
