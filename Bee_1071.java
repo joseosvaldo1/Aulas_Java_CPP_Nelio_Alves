@@ -33,7 +33,7 @@ public class Bee_1071 {
 	int somaImpares = 0;
 	
 	//Tranformando o x no valor menor:
-	if (x > y) {
+	if ( x > y) {
 		int temp = x;
 		x = y;
 		y = temp;
